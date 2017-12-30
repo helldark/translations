@@ -2375,7 +2375,7 @@ msgstr "Página no encontrada"
 #: templates/404.html:21
 msgctxt "404 page"
 msgid "There's nothing here"
-msgstr "Página no encontrada"
+msgstr "No hay nada aquí"
 
 #: templates/404.html:24
 msgid "Home"
