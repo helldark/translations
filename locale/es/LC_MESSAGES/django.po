@@ -197,7 +197,7 @@ msgstr "Próxima partida"
 
 #: bets/templates/bets/matches.html:141
 msgid "Completed matches"
-msgstr "Partida completadas"
+msgstr "Partidas completadas"
 
 #: bets/templates/bets/matches_include.html:37
 #: bets/templates/bets/matches_include.html:39
