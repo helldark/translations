@@ -61,15 +61,15 @@ msgstr "Inicio"
 
 #: bets/templates/bets/bets_base.html:45
 msgid "Predict results"
-msgstr "Predecir resultados"
+msgstr "¡Predice resultados"
 
 #: bets/templates/bets/bets_base.html:46
 msgid "earn points"
-msgstr "Ganar puntos"
+msgstr "adquiere puntos"
 
 #: bets/templates/bets/bets_base.html:47
 msgid "win prizes"
-msgstr "Gana premios"
+msgstr "gana premios"
 
 #: bets/templates/bets/bets_base.html:59
 #: bets/templates/bets/leaderboard.html:65
@@ -112,7 +112,7 @@ msgstr "Partidas"
 #: bets/templates/bets/leaderboard.html:7
 #: bets/templates/bets/leaderboard.html:27
 msgid "Leaderboard"
-msgstr "Clasificación"
+msgstr "Tabla de posición"
 
 #: bets/templates/bets/leaderboard.html:45
 #: heroes/templates/heroes/hero_detail.html:230
@@ -121,7 +121,7 @@ msgstr "Clasificación"
 #: teams/templates/teams/team_base.html:97
 msgctxt "Button label"
 msgid "Just Do It!"
-msgstr "¡Hazlo!"
+msgstr "¡Solo hazlo!"
 
 #: bets/templates/bets/leaderboard.html:60
 msgid "Position"
@@ -140,27 +140,27 @@ msgstr "Apuestas"
 
 #: bets/templates/bets/leaderboard.html:63
 msgid "Predicted winner"
-msgstr "Ganardor predicho"
+msgstr "Predicciones correctas"
 
 #: bets/templates/bets/leaderboard.html:64
 msgid "Predicted score"
-msgstr "Puntuacion predicha"
+msgstr "Puntuación de predicciones"
 
 #: bets/templates/bets/leaderboard.html:87
 msgid "Legendary badge"
-msgstr ""
+msgstr "Insignia legendaria"
 
 #: bets/templates/bets/leaderboard.html:93
 msgid "Epic badge"
-msgstr ""
+msgstr "Insignia épica"
 
 #: bets/templates/bets/leaderboard.html:99
 msgid "Rare badge"
-msgstr ""
+msgstr "Insignia rara"
 
 #: bets/templates/bets/leaderboard.html:105
 msgid "Common badge"
-msgstr ""
+msgstr "Insignia común"
 
 #: bets/templates/bets/matches.html:57
 #: matches/templates/matches/upcoming_matches_inline.html:11
@@ -193,11 +193,11 @@ msgstr "Partidas en curso"
 #: bets/templates/bets/matches.html:74
 #: teams/templates/teams/team_overview.html:243
 msgid "Upcoming matches"
-msgstr "Próximo juego"
+msgstr "Próxima partida"
 
 #: bets/templates/bets/matches.html:141
 msgid "Completed matches"
-msgstr "Partida completada"
+msgstr "Partida completadas"
 
 #: bets/templates/bets/matches_include.html:37
 #: bets/templates/bets/matches_include.html:39
