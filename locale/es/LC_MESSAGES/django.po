@@ -193,7 +193,7 @@ msgstr "Partidas en curso"
 #: bets/templates/bets/matches.html:74
 #: teams/templates/teams/team_overview.html:243
 msgid "Upcoming matches"
-msgstr "Próxima partida"
+msgstr "Partidas próximas"
 
 #: bets/templates/bets/matches.html:141
 msgid "Completed matches"
@@ -799,7 +799,7 @@ msgstr "Partida de exhibición"
 
 #: masterleague/lc_strings.py:39
 msgid "Battlefield of Eternity"
-msgstr "Campos de Batalla de la Eternidad"
+msgstr "Campo de Batalla de la Eternidad"
 
 #: masterleague/lc_strings.py:40
 msgid "Blackheart’s Bay"
@@ -811,11 +811,11 @@ msgstr "Resistencia en Braxis"
 
 #: masterleague/lc_strings.py:42
 msgid "Cursed Hollow"
-msgstr "Cuenca Maldita"
+msgstr "Hondonada Maldita"
 
 #: masterleague/lc_strings.py:43
 msgid "Dragon Shire"
-msgstr "Condado del dragón"
+msgstr "Comarca del dragón"
 
 #: masterleague/lc_strings.py:44
 msgid "Garden of Terror"
@@ -823,7 +823,7 @@ msgstr "Jardín del Terror"
 
 #: masterleague/lc_strings.py:45
 msgid "Haunted Mines"
-msgstr "Minas Encantadas"
+msgstr "Minas Embrujadas"
 
 #: masterleague/lc_strings.py:46
 msgid "Infernal Shrines"
@@ -839,7 +839,7 @@ msgstr "Tumba de la Reina Araña"
 
 #: masterleague/lc_strings.py:49
 msgid "Towers of Doom"
-msgstr "Torres de Fatalidad"
+msgstr "Torres de la Perdición"
 
 #: masterleague/lc_strings.py:50
 msgid "Warhead Junction"
@@ -890,7 +890,7 @@ msgstr "Maldición del cuervo activado"
 #, python-format
 msgid "Temple shots fired. Total Shot Damage: %(total_shot_damage)s."
 msgstr ""
-"Cargas del templo disparadas. Total daño disparos: %(total_shot_damage)s."
+"Cargas del templo disparadas. Total daño de disparos: %(total_shot_damage)s."
 
 #: masterleague/lc_strings.py:65
 msgid "Webweavers spawned"
@@ -1041,7 +1041,7 @@ msgstr "Azmodan"
 
 #: masterleague/lc_strings.py:105
 msgid "Brightwing"
-msgstr "Alafeliz"
+msgstr "Alasol"
 
 #: masterleague/lc_strings.py:106
 msgid "Chen"
@@ -1237,7 +1237,7 @@ msgstr "Valeera"
 
 #: masterleague/lc_strings.py:154
 msgid "Valla"
-msgstr "Valla"
+msgstr "Vala"
 
 #: masterleague/lc_strings.py:155
 msgid "Varian"
@@ -1265,7 +1265,7 @@ msgstr "Zul'jin"
 
 #: masterleague/lc_strings.py:161
 msgid "Probius"
-msgstr ""
+msgstr "Sondius"
 
 #: masterleague/lc_strings.py:162
 msgid "Cassia"
@@ -1281,7 +1281,7 @@ msgstr ""
 
 #: masterleague/lc_strings.py:165
 msgid "Malthael"
-msgstr ""
+msgstr "Maltael"
 
 #: masterleague/lc_strings.py:166
 msgid "Stukov"
@@ -1442,7 +1442,7 @@ msgstr "Daño de asedio"
 
 #: matches/templates/matches/match_stats.html:305
 msgid "Hero Dmg"
-msgstr "Daño de héroes"
+msgstr "Daño de héroe"
 
 #: matches/templates/matches/match_stats.html:306
 msgctxt "Hero role"
@@ -1498,7 +1498,7 @@ msgstr "Torneo / Mapa"
 #: matches/templates/matches/matches_inline.html:26
 msgctxt "Spoilers switcher title"
 msgid "Spoilers"
-msgstr "Spoilers"
+msgstr "Resultados"
 
 #: matches/templates/matches/matches_inline.html:94
 #, python-format
@@ -1780,11 +1780,11 @@ msgstr "El mayor promedio de asistencias"
 
 #: meta/views.py:311
 msgid "Player that spent the most time alive"
-msgstr "Jugador que paso vivo la mayor parte del tiempo"
+msgstr "Paso vivo la mayor parte del tiempo"
 
 #: meta/views.py:322
 msgid "Player that spent the most time dead"
-msgstr "Jugador que paso muerto la mayor parte del tiempo"
+msgstr "Paso muerto la mayor parte del tiempo"
 
 #: meta/views.py:378
 msgid "The highest average deaths"
@@ -1792,11 +1792,11 @@ msgstr "El mayor promedio de muertes"
 
 #: meta/views.py:389
 msgid "Team that spent the most time alive"
-msgstr "Equipo que paso vivo la mayor parte del tiempo"
+msgstr "Paso vivo la mayor parte del tiempo"
 
 #: meta/views.py:400
 msgid "Team that spent the most time dead"
-msgstr "Equipo que paso muerto la mayor parte del tiempo"
+msgstr "Paso muerto la mayor parte del tiempo"
 
 #: pages/templates/calendar.html:5
 msgctxt "[SEO] Page title"
@@ -2010,11 +2010,11 @@ msgstr "Resumen"
 
 #: teams/templates/players/player_heroes.html:42
 msgid "Live Time"
-msgstr "En vivo"
+msgstr "Tiempo vivo"
 
 #: teams/templates/players/player_heroes.html:43
 msgid "Hero dmg"
-msgstr "Daño de héroes"
+msgstr "Daño de héroe"
 
 #: teams/templates/players/player_heroes.html:44
 msgid "Siege dmg"
