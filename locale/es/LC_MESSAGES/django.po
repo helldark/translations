@@ -1863,7 +1863,7 @@ msgstr "Bienvenido a Master League"
 #: pages/templates/mainpage.html:13
 #, python-format
 msgctxt "Greeting"
-msgid "Saludos"
+msgid ""
 "Here you can find the latest results, VODs and replays of <a href=\"http://"
 "heroesofthestorm.com/\" target=\"_blank\"><strong>Heroes of the Storm</"
 "strong></a> competitive games, indepth statistics of players and teams from "
